@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Romil157&color=2EA3F2&style=flat-square&label=Profile+Views)](https://github.com/Romil157)
 [![GitHub followers](https://img.shields.io/github/followers/Romil157?label=Followers&style=flat-square&color=2EA3F2)](https://github.com/Romil157?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romildoshi147)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romil-doshi147/)
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romildoshi147)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romil-doshi147/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romildoshi1999@gmail.com)
 
 </div>
