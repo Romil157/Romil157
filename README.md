@@ -29,7 +29,6 @@
 
 <p align="center">
   <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-0d1117?style=flat-square&logo=target&logoColor=2EA3F2&color=161b22" alt="About Me" /></a>
-  <a href="#-terminal-profile"><img src="https://img.shields.io/badge/Terminal-0d1117?style=flat-square&logo=gnometerminal&logoColor=2EA3F2&color=161b22" alt="Terminal" /></a>
   <a href="#-core-engineering-pillars"><img src="https://img.shields.io/badge/Core%20Pillars-0d1117?style=flat-square&logo=blueprint&logoColor=2EA3F2&color=161b22" alt="Pillars" /></a>
   <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/Tech%20Stack-0d1117?style=flat-square&logo=stackshare&logoColor=2EA3F2&color=161b22" alt="Tech Stack" /></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-0d1117?style=flat-square&logo=github&logoColor=2EA3F2&color=161b22" alt="Projects" /></a>
@@ -41,7 +40,6 @@
 
 <p align="center">
   <b><a href="#-about-me">About Me</a></b> &nbsp;•&nbsp;
-  <b><a href="#-terminal-profile">Terminal</a></b> &nbsp;•&nbsp;
   <b><a href="#-core-engineering-pillars">Core Pillars</a></b> &nbsp;•&nbsp;
   <b><a href="#-technical-arsenal">Tech Stack</a></b> &nbsp;•&nbsp;
   <b><a href="#-featured-projects">Projects</a></b> &nbsp;•&nbsp;
@@ -65,34 +63,6 @@ Final-year **Computer Engineering** undergraduate (**B.Tech, Expected 2027**) at
 - 🏆 **Global Finalist:** Ranked **#445 of 12,885+ registrants across 48 countries (Top 3.4%)** at **HackerRank Orchestrate Hackathon 2026** for building an autonomous multi-ecosystem AI support triage agent.
 - 💼 **Industry Background:** 4 professional internships and roles covering web platform revamps, enterprise cloud & IT infrastructure support, automated data pipelines, and technical systems administration.
 - 🎯 **Looking For:** **Software Development Engineer (SDE) / Data / Applied AI-ML Internships** *(Mumbai or Remote)*.
-
----
-
-## 💻 Terminal Profile
-
-```bash
-romil@developer-workstation:~$ romil --status
-[✓] Status       : Actively interviewing for Software / Data / AI-ML Internships
-[✓] University   : University of Mumbai (B.Tech Computer Engineering, 2027)
-[✓] Global Rank  : #445 of 12,885+ (HackerRank Orchestrate Hackathon 2026)
-[✓] Key Projects : Trustos (Edge Wasm Phishing Detection), Sentinel Verify (AI/NLP SaaS)
-[✓] Core Toolkit : Python, SQL, JavaScript, Flask, Scikit-learn, Web Scraping, Bloom Filters
-
-romil@developer-workstation:~$ romil --get-stats
-+------------------------------------+------------------------------------+
-| METRIC                             | VALUE                              |
-+------------------------------------+------------------------------------+
-| Industry Internships / Roles       | 4 Companies                        |
-| IT SLA Resolution Rate             | 95% Same-Day Turnaround            |
-| Global Hackathon Leaderboard       | Top 3.4% Worldwide                 |
-| Edge Threat Detection Latency      | < 1ms (On-Device Local Filter)     |
-+------------------------------------+------------------------------------+
-
-romil@developer-workstation:~$ romil --contact
-Email    : romildoshi1999@gmail.com
-LinkedIn : https://www.linkedin.com/in/romil-doshi147/
-Location : Mumbai, Maharashtra, India (Open to Relocation & Remote)
-```
 
 ---
 
