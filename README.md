@@ -228,43 +228,165 @@ Final-year **Computer Engineering** undergraduate (**B.Tech, Expected 2027**) at
 
 ```mermaid
 timeline
-    title Professional Trajectory & Experience
+    title Career Trajectory & Industry Roles
     Mar 2024 : IT Services Manager @ Prashant Wakhariya & Co
-             : 95% Same-Day SLA IT Resolution • Network & Infrastructure Monitoring
+             : 95% Same-Day SLA • LAN/WAN Network Infrastructure
     Apr 2025 - May 2025 : Research Intern (Data Scraping) @ iBle Boom Services
-                        : Automated Web Scraping Pipelines • Data Cleaning & Quality Assurance
-    Jul 2025 - Oct 2025 : Information Technology Intern @ ApplyLynk ConversionX
-                        : Cloud Infrastructure • Application Deployment & Cross-Team IT Ops
+                        : Automated Multi-Source Scrapers • Data Cleaning Pipelines
+    Jul 2025 - Oct 2025 : IT Intern @ ApplyLynk ConversionX
+                        : Cloud Infrastructure • Application Deployments
     Dec 2025 - May 2026 : Web Development Intern @ Rhodek Pumps & Equipments
-                        : Enterprise Website Revamp • Lead Generation & UI/UX Optimization
+                        : Enterprise Website Revamp • Lead Generation Funnels
 ```
 
 <br/>
 
-| Role & Organization | Period | Key Highlights & Quantified Impact |
-| :--- | :--- | :--- |
-| **🌐 Web Development Intern**<br/>*Rhodek Pumps & Equipments* | `Dec 2025 – May 2026`<br/>*(Mumbai, India)* | • Spearheaded full overhaul and ongoing maintenance of the enterprise website, enhancing conversion rates and client engagement.<br/>• Architected inbound lead generation funnels and streamlined client inquiry workflows, converting organic traffic into tangible business leads.<br/>• Maintained 100% compliance with corporate branding, SEO best practices, and responsive design. |
-| **☁️ Information Technology Intern**<br/>*ApplyLynk ConversionX Pvt. Ltd.* | `Jul 2025 – Oct 2025`<br/>*(Mumbai, India)* | • Handled internal IT operations, resolving infrastructure bottlenecks and supporting continuous application deployments in a fast-paced startup.<br/>• Maintained developer environment setups and cross-team troubleshooting workflows with zero downtime. |
-| **📊 Research Intern (Data Scraping)**<br/>*iBle Boom Services Pvt. Ltd.* | `Apr 2025 – May 2025`<br/>*(Mumbai, India)* | • Developed automated multi-source web scrapers to gather unstructured market data from complex web portals.<br/>• Created comprehensive data cleaning, deduplication, and validation pipelines, generating reliable ground-truth datasets for research models. |
-| **🖥️ IT Services Manager**<br/>*Prashant Wakhariya & Co* | `Mar 2024`<br/>*(Mumbai, India)* | • Monitored LAN/WAN network health and provided technical support for 10+ on-premise workstations.<br/>• Achieved a **95% same-day SLA resolution rate** across hardware diagnostics, software provisioning, and security configurations. |
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://img.shields.io/badge/🌐_Web_Development_Intern-Rhodek_Pumps_%26_Equipments-0A66C2?style=flat-square" />
+        <img src="https://img.shields.io/badge/🗓️_Dec_2025_–_May_2026-161b22?style=flat-square" />
+        <img src="https://img.shields.io/badge/📍_Mumbai%2C_India-161b22?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>Enterprise Website Revamp:</strong> Spearheaded full overhaul and maintenance of company web properties, drastically improving UX, load speeds, and conversion rates across key landing pages.</li>
+        <li><strong>Inbound Lead Generation:</strong> Architected client inquiry funnels and interactive contact workflows that converted organic web visitors into sales opportunities.</li>
+        <li><strong>Brand & Quality Standards:</strong> Enforced 100% compliance with corporate branding guidelines, cross-browser compatibility, and mobile responsiveness.</li>
+      </ul>
+      <p>
+        <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>UI/UX Design</code> • <code>Lead Generation</code> • <code>SEO Optimization</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://img.shields.io/badge/☁️_Information_Technology_Intern-ApplyLynk_ConversionX-6c5ce7?style=flat-square" />
+        <img src="https://img.shields.io/badge/🗓️_Jul_2025_–_Oct_2025-161b22?style=flat-square" />
+        <img src="https://img.shields.io/badge/📍_Mumbai%2C_India-161b22?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>Infrastructure Operations:</strong> Resolved critical infrastructure bottlenecks and assisted development teams with smooth application deployments in a fast-paced startup ecosystem.</li>
+        <li><strong>Cross-Team Coordination:</strong> Maintained developer environments, system reliability monitoring, and rapid troubleshooting with zero operational downtime.</li>
+      </ul>
+      <p>
+        <code>Cloud Infrastructure</code> • <code>Application Deployment</code> • <code>System Administration</code> • <code>IT Troubleshooting</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://img.shields.io/badge/📊_Research_Intern_(Data_Scraping)-iBle_Boom_Services-00b894?style=flat-square" />
+        <img src="https://img.shields.io/badge/🗓️_Apr_2025_–_May_2025-161b22?style=flat-square" />
+        <img src="https://img.shields.io/badge/📍_Mumbai%2C_India-161b22?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>Automated Data Pipelines:</strong> Built multi-threaded web scrapers to harvest structured datasets from diverse unstructured web sources and dynamic portals.</li>
+        <li><strong>Data Validation & Quality Assurance:</strong> Engineered automated data cleaning, deduplication, and schema validation routines, delivering high-accuracy datasets for research initiatives.</li>
+      </ul>
+      <p>
+        <code>Python</code> • <code>Data Scraping</code> • <code>Data Cleaning</code> • <code>Data Validation</code> • <code>Pandas</code> • <code>ETL</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://img.shields.io/badge/🖥️_IT_Services_Manager-Prashant_Wakhariya_%26_Co-e17055?style=flat-square" />
+        <img src="https://img.shields.io/badge/🗓️_Mar_2024-161b22?style=flat-square" />
+        <img src="https://img.shields.io/badge/📍_Mumbai%2C_India-161b22?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>Network & Systems Management:</strong> Monitored enterprise LAN/WAN health and provided comprehensive technical support for 10+ employee workstations.</li>
+        <li><strong>High SLA Resolution:</strong> Resolved <strong>95% of IT tickets within the same business day</strong>, handling hardware diagnostics, software installations, and security access.</li>
+      </ul>
+      <p>
+        <code>Network Fundamentals</code> • <code>IT Support</code> • <code>Hardware Diagnostics</code> • <code>Security Controls</code> • <code>SLA Management</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Hackathons & Competitions
 
-| Event & Organizer | Achievement & Rank | Key Innovation / Stack |
-| :--- | :--- | :--- |
-| 🏆 **HackerRank Orchestrate 2026** | **Global Finalist (Rank #445 / 12,885+)** | Autonomous AI Support Triage Agent with RAG & Deterministic Escalation |
-| 🛰️ **ISRO Bharatiya Antariksh Hackathon** | **Finalist Team (4-Person Build)** | SAR-Optical Conditional GAN for Satellite Cloud Removal (LISS-IV) |
-| 📊 **Redrob Data & AI Challenge 2025** | **Team Viking47** | Intelligent Candidate Matching & Resume Ranking Engine |
-| 💻 **DeepThought SDE Challenge** | **Live-Coding Finalist** | Full-Stack React App with Deepgram Speech-to-Text & Auth |
-
-<br/>
-
-- 🥇 **HackerRank Orchestrate Hackathon 2026** — Engineered a production-ready AI triage agent for HackerRank, Claude, and Visa ticket streams in 24 hours. Ranked **#445 of 1,349 finalists** across **12,885+ registrants from 48 countries**.
-- 🛰️ **ISRO Bharatiya Antariksh Hackathon** — Built a Generative Adversarial Network (cGAN) system merging SAR and optical satellite imagery to eliminate cloud cover on Indian LISS-IV sensor datasets (4-person team).
-- 📈 **Redrob India Runs Data & AI Challenge 2025** *(Team Viking47)* — Created an algorithmic resume parsing and candidate ranking model optimizing recruitment pipeline throughput.
-- ⚡ **DeepThought SDE Challenge** — Developed a responsive application integrating real-time voice transcription (Deepgram) and cloud authentication.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🥇 <a href="https://github.com/Romil157">HackerRank Orchestrate Hackathon 2026</a></h3>
+        <p><strong>Global Finalist — Ranked #445 of 12,885+ (Top 3.4% Worldwide)</strong></p>
+        <img src="https://img.shields.io/badge/Rank-Top_3.4%25_Globally-gold?style=flat-square&logo=hackerrank&logoColor=black" />
+        <img src="https://img.shields.io/badge/Scale-12%2C885%2B_Registrants-blue?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>24-Hour Autonomous Build:</strong> Engineered a terminal-based AI support triage agent handling multi-ecosystem developer tickets across <strong>HackerRank, Claude, and Visa</strong>.</li>
+        <li><strong>Grounded RAG & Safeguards:</strong> Integrated vector-based retrieval over technical knowledge bases with deterministic rule layers and intelligent escalation logic to eliminate hallucinations.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>RAG Systems</code> • <code>Autonomous Agents</code> • <code>Vector Retrieval</code> • <code>NLP</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛰️ <a href="https://github.com/Romil157">ISRO Bharatiya Antariksh Hackathon</a></h3>
+        <p><strong>Generative AI Satellite De-Clouding System (4-Person Team)</strong></p>
+        <img src="https://img.shields.io/badge/Domain-Earth_Observation-0984e3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Model-SAR_Optical_cGAN-6c5ce7?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>SAR-Optical Fusion:</strong> Developed a conditional Generative Adversarial Network (cGAN) to restore cloud-obscured regions in high-resolution LISS-IV satellite imagery.</li>
+        <li><strong>Feature Reconstruction:</strong> Fused synthetic aperture radar (SAR) penetration data with optical bands to synthesize accurate surface textures and land features.</li>
+      </ul>
+      <p align="center">
+        <code>PyTorch</code> • <code>cGAN</code> • <code>Computer Vision</code> • <code>Remote Sensing</code> • <code>Image Translation</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📈 <a href="https://github.com/Romil157">Redrob Data & AI Challenge 2025</a></h3>
+        <p><strong>Intelligent Candidate Ranking Engine — Team Viking47</strong></p>
+        <img src="https://img.shields.io/badge/Domain-Talent_Informatics-00cec9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Task-Resume_Matching_ML-e84393?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>Algorithmic Candidate Matching:</strong> Created an NLP and machine learning pipeline to parse, score, and rank technical resumes against complex job descriptions.</li>
+        <li><strong>Feature Engineering:</strong> Extracted contextual skill graphs and experience vectors to accelerate recruitment screening throughput.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>Scikit-learn</code> • <code>NLP</code> • <code>Feature Engineering</code> • <code>Pandas</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⚡ <a href="https://github.com/Romil157">DeepThought SDE Internship Challenge</a></h3>
+        <p><strong>Rapid Full-Stack Live-Coding Sprint</strong></p>
+        <img src="https://img.shields.io/badge/Type-Live_Evaluation-d63031?style=flat-square" />
+        <img src="https://img.shields.io/badge/Integration-Deepgram_STT-2d3436?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li><strong>Real-Time Speech-to-Text:</strong> Rapidly architected a full-stack React web application integrating Deepgram real-time voice transcription APIs.</li>
+        <li><strong>Secure Authentication:</strong> Implemented end-to-end user authentication, reactive UI states, and responsive audio streaming controls.</li>
+      </ul>
+      <p align="center">
+        <code>React</code> • <code>JavaScript</code> • <code>Deepgram API</code> • <code>Real-Time WebSockets</code> • <code>Auth</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
