@@ -302,32 +302,30 @@ timeline
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Profile Summary Cards -->
 <table border="0">
   <tr>
     <td align="center">
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=Romil157&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2EA3F2&icon_color=2EA3F2&text_color=9e9e9e&bg_color=0d1117" alt="Romil's GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romil157&theme=tokyonight" alt="Profile Details" />
     </td>
     <td align="center">
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romil157&layout=compact&theme=tokyonight&hide_border=true&title_color=2EA3F2&text_color=9e9e9e&bg_color=0d1117" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romil157&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romil157&theme=tokyonight" alt="Repos Per Language" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Romil157&theme=tokyonight" alt="Most Commit Language" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Romil157&theme=tokyonight&hide_border=true&ring=2EA3F2&fire=2EA3F2&currStreakLabel=2EA3F2&background=0d1117" alt="GitHub Streak Stats" />
-
-<br/>
-
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Romil157&theme=tokyo-night&hide_border=true&area=true&color=2EA3F2" width="95%" alt="Romil's Activity Graph" />
-
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Romil157&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Romil157&theme=tokyo-night&hide_border=true&area=true&color=2EA3F2" width="100%" alt="Romil's Contribution Graph" />
 
 </div>
 
